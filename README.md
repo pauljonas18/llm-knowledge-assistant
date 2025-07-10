@@ -1,5 +1,7 @@
 # llm-knowledge-assistant
 A Streamlit app that uses Sentence Transformers, FAISS, and Hugging Face models to answer questions from uploaded company PDFs.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/pauljonas18/llm-knowledge-assistant/main/app_ui.py)
+
 # 🤖 LLM-Powered Knowledge Assistant for Enterprises
 
 This project allows you to upload a company's policy document (PDF) and ask questions about it using natural language. It uses:
