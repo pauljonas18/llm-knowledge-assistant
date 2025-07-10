@@ -1,6 +1,8 @@
 # llm-knowledge-assistant
 A Streamlit app that uses Sentence Transformers, FAISS, and Hugging Face models to answer questions from uploaded company PDFs.
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/pauljonas18/llm-knowledge-assistant/main/app_ui.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llm-knowledge-assistant-gbyzcibdftbez4ockzhcef.streamlit.app)
+
+.streamlit.app)
 
 # 🤖 LLM-Powered Knowledge Assistant for Enterprises
 
